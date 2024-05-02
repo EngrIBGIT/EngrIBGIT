@@ -1,6 +1,6 @@
 
 Hi, I am Ibrahim Ismaila a seasoned civil engineer with a Master's in highway and transportation engineering, 
-specializing in utilizing data science for effective infrastructure management. 
+specializing in utilizing data science for effective management of findings, insights and predictionss 
 My passion lies in leveraging IT tools to innovate solutions across diverse sectors, 
 such as business, health, community development, and overall infrastructure enhancement. 
 With a robust academic background, 
