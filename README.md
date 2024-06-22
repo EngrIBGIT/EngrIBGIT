@@ -14,6 +14,12 @@ Equipped with proficiency in data manipulation, statistical analysis, and data v
 - _AI & ML Techniques_
 - _Microsoft & Google Suites_
 - _Project Collaboration_
+- _SQL_
+- _Python for Data Analytics_
+- _PowerBI_
+- _Tableau_
+- _Google Cloud_
+- _e.t.c_
 
 ### Connect:
 - 📫 **How to reach me:** _ibrahim5322022@hotmail.com_
