@@ -1,16 +1,25 @@
+## Dynamic Data Analyst
+With a background in Civil Engineering, I am a dynamic, results-driven Data Analyst, specializing in leveraging data for effective management, insights, and predictions. Passionate about exploring complex datasets to uncover actionable insights, driving informed decision-making, and contributing to the success of cutting-edge projects across diverse sectors such as energy, telecommunication, oil and gas, academic, business, health, community development, and infrastructure enhancement.
 
-Hi, I am Ibrahim Ismaila a seasoned civil engineer with a Master's in highway and transportation engineering, 
-specializing in utilizing data science for effective management of findings, insights and predictionss 
-My passion lies in leveraging IT tools to innovate solutions across diverse sectors, 
-such as business, health, community development, and overall infrastructure enhancement. 
-With a robust academic background, 
-I excel in teaching and in imparting valuable insights into community social development and infrastructure services.
---->
-👀 I’m interested in leveraging Data Science tools for innovative solutions.
-🌱 I’m currently learning new data science techniques in AI and ML.
-💞️ I’m looking to collaborate on Data Science, ML, and AI projects related to infrastructure enhancement and community development.
-📫 How to reach me: ibrahim5322022@hotmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I enjoy experimenting with different Data Science, AI, ML, Microsoft, and Google Suites tools to streamline work processes.
-GitHub: @EngrIBGIT
-Feel free to reach out for collaboration opportunities or to discuss exciting projects in infrastructure management and data science!
+Equipped with proficiency in data manipulation, statistical analysis, and data visualization tools, I excel at uncovering findings from intricate datasets.  Currently, I’m expanding my expertise in AI and ML to drive innovation and streamline work processes.
+
+- 👀 I’m interested in leveraging Data Science tools for innovative solutions.
+- 🌱 I’m currently learning new data science techniques in AI and ML.
+- 💞️ I’m looking to collaborate on Data Science, ML, and AI projects related to every sector for the development of improvement within the domain.
+
+### Ability and Resources (Skills & Tools):
+- _Data Manipulation_
+- _Statistical Analysis_
+- _Data Visualization_
+- _AI & ML Techniques_
+- _Microsoft & Google Suites_
+- _Project Collaboration_
+
+### Connect:
+- 📫 **How to reach me:** _ibrahim5322022@hotmail.com_
+- 😄 **Pronouns:** _He/Him_
+- ⚡ **Fun fact:** _I enjoy experimenting with different Data Science, AI, ML, Microsoft, and Google Suites tools to streamline work processes._
+- -__GitHub:__ _@EngrIBGIT_
+
+**Feel free to reach out for collaboration opportunities or to discuss exciting projects in any domain!**
+
