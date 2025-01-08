@@ -1,4 +1,4 @@
-## Dynamic Data Analyst
+## Dynamic Data Professional
 With a background in Civil Engineering, I am a dynamic, results-driven Data Analyst, specializing in leveraging data for effective management, insights, and predictions. Passionate about exploring complex datasets to uncover actionable insights, driving informed decision-making, and contributing to the success of cutting-edge projects across diverse sectors such as energy, telecommunication, oil and gas, academic, business, health, community development, and infrastructure enhancement.
 
 Equipped with proficiency in data manipulation, statistical analysis, and data visualization tools, I excel at uncovering findings from intricate datasets.  Currently, I’m expanding my expertise in AI and ML to drive innovation and streamline work processes.
