@@ -9,7 +9,7 @@ I’m **Ibrahim Ismaila**, a results-oriented **Data Scientist** with over **6 y
 - Boosted campaign effectiveness by **35%**
 - Reduced operational waste by **25%**
 
-My expertise includes **Python, SQL, TensorFlow, PyTorch**, **Power BI**, **MLflow**, **Docker**, Lowcode/no code tools *e.g n8n) and cloud platforms like **GCP, AWS**, and **Azure**. I’m especially passionate about **building intelligent systems**, **automation processes**, **mentoring upcoming talent**, and translating complex data into clear insights for stakeholders.
+My expertise includes **Python, SQL, TensorFlow, PyTorch**, **Power BI**, **MLflow**, **Docker**, Lowcode/no code tools (e.g n8n) and cloud platforms like **GCP, AWS**, and **Azure**. I’m especially passionate about **building intelligent systems**, **automation processes**, **mentoring upcoming talent**, and translating complex data into clear insights for stakeholders.
 
 🧠 As a **Deep Learning Tutor**, I’ve designed and led structured, engaging training for aspiring AI professionals, helping bridge the gap between theory and real-world application.
 
