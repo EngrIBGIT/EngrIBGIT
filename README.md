@@ -1,6 +1,6 @@
 ## Dynamic Data Professional
 🔍 **Data Scientist | AI/ML Specialist | Deep Learning Tutor**  
-📍 Abuja, Nigeria | 📧 ibrahim5322022@hotmail.com | 🔗 [GitHub](https://github.com/ENGRIBGIT) | [LinkedIn](https://www.linkedin.com/in/ibrahim-ismaila) | [Loubby]([https://github.com/ENGRIBGIT](https://app.loubby.ai/people/profile/670e1f2bd730aa0f62c8c97a)) | [Amdari](https://www.linkedin.com/in/ibrahim-ismaila](https://www.amdari.io/profile/Ibrahim-Ismaila-417))
+📍 Abuja, Nigeria | 📧 ibrahim5322022@hotmail.com | 🔗 [GitHub](https://github.com/ENGRIBGIT) | [LinkedIn](https://www.linkedin.com/in/ibrahim-ismaila) | [Loubby](https://app.loubby.ai/people/profile/670e1f2bd730aa0f62c8c97a) | [Amdari](https://www.amdari.io/profile/Ibrahim-Ismaila-417)
 
 I’m **Ibrahim Ismaila**, a results-oriented **Data Scientist** with over **6 years of experience** in machine learning, artificial intelligence, and data analytics. I specialize in building **scalable, data-driven solutions** that fuel product innovation and drive business impact. From predictive modeling and A/B testing to real-time bidding and customer segmentation, I bring both technical depth and strategic thinking to every project.
 
